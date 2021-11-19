@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harikanaidu
 - 👀 I’m interested in Data Analysis/Data Science
 - 🌱 I’m currently learning Tableau
-- 💞️ I’m looking to collaborate on Exploratory analysis projects
+- 💞️ I’m looking to collaborate on Exploratory analysis and predictive ML projects
 - 📫 How to reach me <harika.gamidi@gmail.com ; +91 9110733892>
 
 <!---
